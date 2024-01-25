@@ -65,5 +65,3 @@ CREATE TABLE marcas_horario (
 - script.js: JavaScript file with client-side interactions.
 - styles.css: CSS file for custom styles.
 
-### Credits
-This project was developed by [https://github.com/dev-mariart].
